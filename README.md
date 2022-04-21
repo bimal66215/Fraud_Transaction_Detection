@@ -1,4 +1,4 @@
-###### Data Description:
+## Data Description:
 
 Our focus will be on the most essential features of a transaction. In essence, a payment card transaction consists of any amount paid to a merchant by a customer at a certain time. The six main features that summarise a transaction therefore are:
 
