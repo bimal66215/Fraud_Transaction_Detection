@@ -1,0 +1,6 @@
+2022-04-22/01:51:48		Start of Data Scrapping!!
+2022-04-22/01:51:50		Started getting the File downloadable links!!
+2022-04-22/01:55:04		Finished getting the File downloadable links!!
+2022-04-22/01:55:04		Started Downloading the .pkl Files from the links!!
+2022-04-22/02:05:39		Finished Downloading the .pkl Files from the links!!
+2022-04-22/02:05:39		End of Data Scrapping!!
